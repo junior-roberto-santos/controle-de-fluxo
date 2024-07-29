@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d79e1b2d-7c4d-4db5-8218-37c282f3c0e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controle-de-fluxo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbouteMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CepInvalidoExcepition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Desafio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploBreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploDoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploExcecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploFor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExemploWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FormatadorCepException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResultadoEscolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ResultadoEscolar2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimulacaoBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaOperadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemaOperadora2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemasMedidas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SistemasMedidas2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2j8xxgFODorhAl5aigcPYXzODzG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbouteMe.executor": "Run",
+    "Application.CaixaEletronico.executor": "Run",
+    "Application.Desafio1.executor": "Run",
+    "Application.ExemploArray.executor": "Run",
+    "Application.ExemploBreakContinue.executor": "Run",
+    "Application.ExemploDoWhile.executor": "Run",
+    "Application.ExemploExcecao.executor": "Run",
+    "Application.ExemploFor.executor": "Run",
+    "Application.ExemploFor2.executor": "Run",
+    "Application.ExemploWhile.executor": "Run",
+    "Application.FormatadorCepException.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ResultadoEscolar.executor": "Run",
+    "Application.ResultadoEscolar2.executor": "Run",
+    "Application.SimulacaoBancaria.executor": "Run",
+    "Application.SistemaOperadora.executor": "Run",
+    "Application.SistemaOperadora2.executor": "Run",
+    "Application.SistemasMedidas.executor": "Run",
+    "Application.SistemasMedidas2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/jrsk/OneDrive/Documentos/controle-de-fluxo/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SimulacaoBancaria">
+    <configuration name="AbouteMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AbouteMe" />
+      <module name="controle-de-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaixaEletronico" />
+      <module name="controle-de-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemploExcecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExemploExcecao" />
+      <module name="controle-de-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormatadorCepException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FormatadorCepException" />
+      <module name="controle-de-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimulacaoBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimulacaoBancaria" />
+      <module name="controle-de-fluxo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimulacaoBancaria" />
+        <item itemvalue="Application.CaixaEletronico" />
+        <item itemvalue="Application.FormatadorCepException" />
+        <item itemvalue="Application.ExemploExcecao" />
+        <item itemvalue="Application.AbouteMe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d79e1b2d-7c4d-4db5-8218-37c282f3c0e0" name="Changes" comment="" />
+      <created>1720782757092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720782757092</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/CepInvalidoExcepition.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

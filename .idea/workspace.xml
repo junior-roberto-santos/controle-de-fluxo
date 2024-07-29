@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d79e1b2d-7c4d-4db5-8218-37c282f3c0e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/controle-de-fluxo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbouteMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CepInvalidoExcepition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Desafio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploBreakContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploDoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploExcecao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploFor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExemploWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FormatadorCepException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResultadoEscolar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ResultadoEscolar2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimulacaoBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemaOperadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemaOperadora2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemasMedidas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SistemasMedidas2.java" afterDir="false" />
-    </list>
+    <list default="true" id="d79e1b2d-7c4d-4db5-8218-37c282f3c0e0" name="Changes" comment="Controle de fluxo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,33 +29,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AbouteMe.executor": "Run",
-    "Application.CaixaEletronico.executor": "Run",
-    "Application.Desafio1.executor": "Run",
-    "Application.ExemploArray.executor": "Run",
-    "Application.ExemploBreakContinue.executor": "Run",
-    "Application.ExemploDoWhile.executor": "Run",
-    "Application.ExemploExcecao.executor": "Run",
-    "Application.ExemploFor.executor": "Run",
-    "Application.ExemploFor2.executor": "Run",
-    "Application.ExemploWhile.executor": "Run",
-    "Application.FormatadorCepException.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ResultadoEscolar.executor": "Run",
-    "Application.ResultadoEscolar2.executor": "Run",
-    "Application.SimulacaoBancaria.executor": "Run",
-    "Application.SistemaOperadora.executor": "Run",
-    "Application.SistemaOperadora2.executor": "Run",
-    "Application.SistemasMedidas.executor": "Run",
-    "Application.SistemasMedidas2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/jrsk/OneDrive/Documentos/controle-de-fluxo/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AbouteMe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CaixaEletronico.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Desafio1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploBreakContinue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploDoWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploExcecao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploFor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploFor2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExemploWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FormatadorCepException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResultadoEscolar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ResultadoEscolar2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimulacaoBancaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemaOperadora.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemaOperadora2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemasMedidas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SistemasMedidas2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/jrsk/OneDrive/Documentos/controle-de-fluxo/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -141,7 +116,44 @@
       <option name="presentableId" value="Default" />
       <updated>1720782757092</updated>
     </task>
+    <task id="LOCAL-00001" summary="Controle de fluxo">
+      <option name="closed" value="true" />
+      <created>1722275114136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722275114136</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Controle de fluxo">
+      <option name="closed" value="true" />
+      <created>1722275153564</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722275153564</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Controle de fluxo">
+      <option name="closed" value="true" />
+      <created>1722275218997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722275218997</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Controle de fluxo">
+      <option name="closed" value="true" />
+      <created>1722275292323</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722275292323</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Controle de fluxo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Controle de fluxo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
